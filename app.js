@@ -111,7 +111,7 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(3000, () => {
-  console.log("server is listening to port 8080");
+  console.log("server is listening to port 3000");
 });
 
 //Mention MVC Framework in bullet point for project of resume
